@@ -23,17 +23,4 @@ export default {
   background-color: #555555;
   height: 100vh;
 }
-
-#nav {
-  padding: 30px;
-}
-
-#nav a {
-  font-weight: bold;
-  color: white;
-}
-
-#nav a.router-link-exact-active {
-  color: red;
-}
 </style>

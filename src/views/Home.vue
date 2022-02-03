@@ -25,9 +25,9 @@ export default {
      }
 
     #Me {
-      border-radius:50%;
+      border-radius:100%;
       height: 60%;
-      padding-top: 30px;
+      padding-top: 20px;
       align-items: center;
     }
 
