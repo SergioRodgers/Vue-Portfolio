@@ -1,19 +1,12 @@
-h1{
-    border-style: solid;
-    border-color: #A6A2A2;
-    border-width: 2px;
-    border-left: none;
-    border-right: none;
-    border-top: none;
-    margin: auto;
-    width: 60%;
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
     text-align: center;
-
-}
-.progress {
-  display: flex;
-  margin: 10px;
-}
+    color: #ffffff;
+    background-color: #555555;
+    height: 110vh;
+  }
 
 .col-4{
   padding: 40px;
@@ -36,7 +29,11 @@ h1{
   /* The typing effect */
   @keyframes typing {
     from { width: 0 }
-    to { width: 44% }
+    to { width: 60% }
+  }
+  @media only screen and (max-width: 575px ) {
+    from { width: 0 }
+    to { width: 60% }
   }
   
   /* The typewriter cursor effect */
@@ -44,7 +41,6 @@ h1{
     from, to { border-color: transparent }
     50% { border-color: #A6A2A2; }
   }
-  @media only screen and (max-width: 575px) {
     #projects{
         height: 100%;
         padding-top: 100%;
@@ -68,13 +64,7 @@ h1{
         padding-left: 35px;
     }
     
-}
-
-
-
-
-
-
+    
 
 /* MEDIA QUERIES */
 

@@ -1,6 +1,6 @@
 <template>
   <div class="resume">
-    <h1>Work and Education</h1>
+    <h1 style="font-size: 50px">Work and Education</h1>
 
     <div class="container">
               <div class="row justify-content-center">
@@ -132,7 +132,9 @@ export default {
 </script>
 
 <style>
-
+p{
+  color: #bebebe;
+}
 .timeline_area {
     position: relative;
     z-index: auto;

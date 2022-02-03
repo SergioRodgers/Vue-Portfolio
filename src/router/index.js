@@ -33,7 +33,7 @@ const routes = [
   {
     path: '/contact',
     name: 'Contact',
-    component:() => import( '../views/Contact.vue')
+    component:() => import( '../components/contact.vue')
   }
 ]
 

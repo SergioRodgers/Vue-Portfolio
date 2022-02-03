@@ -1,5 +1,10 @@
 <template>
-  <div class="contact">
-    <h1></h1>
-  </div>
+ <Contact/>
 </template>
+<script>
+import Contact from '../components/contact.vue'
+
+export default {
+  components:{Contact}
+}
+</script>
