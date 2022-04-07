@@ -21,12 +21,14 @@ h1{
   border-color: rgb(48, 48, 48);
   border-width: 3px;
   border-left: none;
+
   border-right: none;
   border-top: none;
   margin: auto;
   width: 60%;
   text-align: center;
 }
+
 
 
 </style>

@@ -13,8 +13,7 @@
               <h3 style="color: white">Bio</h3>
               <p id="p1" style="color:#A6A2A2">I’m an honest, reliable, respectful and loyal individual. I am a socialite and love networking and
               meeting new people. Likewise, I work well independently and as part of a team. Not only that, but I
-              enjoy taking the lead, but I don’t mind following either.</p>
-              
+              enjoy taking the lead, but I don’t mind following either.</p>               
             
           
             <div class="col-sm-6">

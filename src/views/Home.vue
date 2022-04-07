@@ -14,9 +14,16 @@
         font-size: 22px;
         text-shadow: 3px 3px rgb(94, 1, 1);
         font-family: 'Courier New', Courier, monospace;">
-        Front End Developer</h2>
+        Aspiring Full stack Developer</h2>
  <img src="../assets/Images/Me2.png" id='Me'>
+ <br>
+ <div class="git-link" style="margin: auto; padding-top: 10px; font-size: 30px;">
+  <a href="https://github.com/SergioRodgers?tab=repositories" target="_blank"><i class="bi bi-github" style="padding-auto; color:#ebebeb"></i></a>
+  <a href="https://www.linkedin.com/in/sergio-rodgers-219715224/" target="_blank"><i class="bi bi-linkedin" style="padding-left: 10px; color:#ebebeb"></i></a>
+ </div>
+ 
 
+    
 </template>
 
 <script>
